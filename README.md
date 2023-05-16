@@ -14,3 +14,7 @@ To address this, we incorporated an alternative dataset where the training data 
 final_project.ipynb - this file contains the entire code for our project.
 
 To run this file, open this on Google Colab, make sure the required dataset is uploaded and then run all the cells on GPU with High-RAM for results.
+
+## Detailed Report
+
+Report can be found here : [[Link to the Report]](https://github.com/raunakbhupal/land-classification/blob/main/DL_Project_Report.pdf)
